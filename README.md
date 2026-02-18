@@ -1,4 +1,7 @@
 # Multi-Channel-Advertising--Analytics
+
+Dashboard Link: https://lookerstudio.google.com/s/rI7rcIYqqqw 
+
 Transform raw advertising data from three major platforms into actionable insights through a unified data model and compelling visualizations
 
 Data : Raw advertising data from three platforms - Facebook, Google, and TikTok 
@@ -26,4 +29,3 @@ Google's Search Brand Terms has the highest CTR (5.22%) and lowest CPA ($5.10) w
 Google's Search Generic Terms has the worst CPA ($24.87) across all campaigns. It needs keyword optimization or budget reallocation.
 Budget reallocation opportunity: Can shift 10-15% of TikTok spend towards Facebook retargeting and Google could improve overall CPA.
 
-Dashboard Link: https://lookerstudio.google.com/s/rI7rcIYqqqw 
