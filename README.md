@@ -2,6 +2,7 @@
 Transform raw advertising data from three major platforms into actionable insights through a unified data model and compelling visualizations
 
 Data : Raw advertising data from three platforms - Facebook, Google, and TikTok 
+
 Task : Unify it into a single model and build a dashboard to analyze cross-channel performance
 
 What I did
